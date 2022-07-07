@@ -1,0 +1,524 @@
+{
+    "ingredients" : [
+        {
+            "name":"Applejack",
+            "inst":"Applejack is a strong alcoholic drink produced from apples. Popular in the American colonial era, the drink's prevalence declined in the 19th and 20th centuries amid competition from other spirits.",
+            "tag1":"Brandy",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"applejack.jpg"
+        },
+                {
+            "name":"Lemon Juice",
+            "inst":"Lemon juice is used to make lemonade, soft drinks, and cocktails. It is used in marinades for fish, where its acid neutralizes amines in fish by converting them into nonvolatile ammonium salts. In meat, the acid partially hydrolyzes tough collagen fibers, tenderizing it.[18] In the United Kingdom, lemon juice is frequently added to pancakes, especially on Shrove Tuesday.",
+            "tag1":"Lemon",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"lemon_juice.jpg"
+        },
+                {
+            "name":"Grenadine",
+            "inst":"Grenadine is a commonly used nonalcoholic bar syrup characterized by its deep red color. It is a popular cocktail ingredient renowned for its flavor as well as its ability to give a reddish or pink tint to mixed drinks.",
+            "tag1":"",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"grenadine.jpg"
+        },
+                {
+            "name":"Apple",
+            "inst":"An apple is an edible fruit produced by an apple tree (Malus domestica). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek, and European Christian tradition.",
+            "tag1":"",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"apple.jpg"
+        },
+                {
+            "name":"Vodka",
+            "inst":"Vodka is a clear distilled alcoholic beverage. Different varieties originated in Poland, Russia, and Sweden. Vodka is composed mainly of water and ethanol but sometimes with traces of impurities and flavourings.  Traditionally, it is made by distilling liquid from fermented cereal grains. Potatoes have been used in more recent times, and some modern brands use fruits, honey, or maple sap as the base.",
+            "tag1":"",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"vodka.jpg"
+        },
+                {
+            "name":"Grand Marnier",
+            "inst":"Grand Marnier is a French brand of liqueurs. The brand's best-known product is Grand Marnier Cordon Rouge, an orange-flavored liqueur created in 1880 by Alexandre Marnier-Lapostolle. It is made from a blend of Cognac brandy, distilled essence of bitter orange, and sugar, containing 40% alcohol (70 proof in UK, 80 proof in US). It is commonly consumed "neat" as a cordial or a digestif, and can be used in mixed drinks and desserts. Popular examples of the latter include crêpes Suzette and crêpes au Grand Marnier.",
+            "tag1":"",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"grand_marnier.jpg"
+        },
+                {
+            "name":"Amaretto",
+            "inst":"Amaretto is a sweet Italian liqueur that originated in Saronno. Depending on the brand, it may be made from apricot kernels, bitter almonds, peach stones, or almonds, all of which are natural sources of the benzaldehyde that provides the almond-like flavour of the liqueur. It generally contains 21 to 28 percent alcohol by volume.",
+            "tag1":"",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"amaretto.jpg"
+        },
+                {
+            "name":"Orange Juice",
+            "inst":"Orange juice is a liquid extract of the orange tree fruit, produced by squeezing or reaming oranges.",
+            "tag1":"Orange",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"orange_juice.jpg"
+        },
+                {
+            "name":"Pineapple Juice",
+            "inst":"Pineapple juice is a liquid made from pressing the natural liquid from the pulp of the pineapple (a fruit from a tropical plant).",
+            "tag1":"Pineapple",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"pineapple_juice.jpg"
+        },
+                {
+            "name":"Bourbon Whiskey",
+            "inst":"Bourbon is a type of American whiskey, a barrel-aged distilled liquor made primarily from corn. The name derives from the French Bourbon dynasty, although the precise inspiration is uncertain; contenders include Bourbon County in Kentucky and Bourbon Street in New Orleans, both of which are named after the dynasty.",
+            "tag1":"Whiskey",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"bourbon_whiskey.jpeg"
+        },
+                {
+            "name":"Grapefruit Juice",
+            "inst":"Grapefruit juice is the juice from grapefruits. It is rich in vitamin C and ranges from sweet-tart to very sour. Variations include white grapefruit, pink grapefruit and ruby red grapefruit juice.",
+            "tag1":"Grapefruit",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"grapefruit_juice.jpg"
+        },
+                {
+            "name":"Honey Syrup",
+            "inst":"Honey syrup can be used in your cocktails in a way similar to simple syrup, adding complexity as well as sweetness. It’s an essential ingredient in a Bee’s Knees, Gold Rush and Brown Derby, among others. ",
+            "tag1":"Simple Syrup",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"honey_syrup.jpg"
+        },
+                {
+            "name":"Grapefruit",
+            "inst":"The grapefruit is a subtropical citrus tree known for its relatively large, sour to semi-sweet, somewhat bitter fruit. The interior flesh is segmented and varies in color from pale yellow to dark pink.",
+            "tag1":"",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"grapefruit.jpg"
+        },
+                {
+            "name":"Campari",
+            "inst":"Campari is an Italian alcoholic liqueur, considered an apéritif (20.5%, 21%, 24%, 25%, or 28.5% ABV, depending on the country in which it is sold), obtained from the infusion of herbs and fruit (including chinotto and cascarilla) in alcohol and water. It is a bitters, characterised by its dark red colour.",
+            "tag1":"",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"campari.jpg"
+        },
+                {
+            "name":"Sparkling Wine",
+            "inst":"Sparkling wine is a wine with significant levels of carbon dioxide in it, making it fizzy. While the phrase commonly refers to champagne, European Union countries legally reserve that term for products exclusively produced in the Champagne region of France. Sparkling wine is usually either white or rosé, but there are examples of red sparkling wines such as the Italian Brachetto, Bonarda and Lambrusco, and the Australian sparkling Shiraz. The sweetness of sparkling wine can range from very dry brut styles to sweeter doux varieties (French for 'hard' and 'soft', respectively).",
+            "tag1":"",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"sparkling_wine.jpg"
+        },
+                {
+            "name":"Soda Water",
+            "inst":"Carbonated water (also known as soda water, sparkling water, fizzy water, club soda, water with gas, in many places as mineral water or (especially in the U.S.) as seltzer or seltzer water) is water containing dissolved carbon dioxide gas, either artificially injected under pressure or occurring due to natural geological processes. Carbonation causes small bubbles to form, giving the water an effervescent quality. Common forms include sparkling natural mineral water, club soda, and commercially-produced sparkling water.",
+            "tag1":"",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"soda_water.jpg"
+        },
+                {
+            "name":"Lemon",
+            "inst":"The lemon (Citrus limon) is a species of small evergreen trees in the flowering plant family Rutaceae, native to Asia, primarily Northeast India (Assam), Northern Myanmar or China.",
+            "tag1":"",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"lemon.jpg"
+        },
+                {
+            "name":"Lime Juice",
+            "inst":"",
+            "tag1":"Lime",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"lime_juice.jpg"
+        },
+                {
+            "name":"Ginger Beer",
+            "inst":"Traditional ginger beer is a sweetened and carbonated, usually non-alcoholic beverage. Historically it was produced by the natural fermentation of prepared ginger spice, yeast and sugar.",
+            "tag1":"",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"ginger_beer.jpg"
+        },
+                {
+            "name":"Lime",
+            "inst":"A lime is a citrus fruit, which is typically round, green in color, 3–6 centimetres (1.2–2.4 in) in diameter, and contains acidic juice vesicles.",
+            "tag1":"",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"lime.jpg"
+        },
+                {
+            "name":"Scotch Whiskey",
+            "inst":"Scotch whisky often simply called whisky or Scotch) is malt whisky or grain whisky (or a blend of the two), made in Scotland.",
+            "tag1":"Whiskey",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"scotch_whiskey.jpg"
+        },
+        {
+            "name":"Sweet Vermouth",
+            "inst":"Sweet vermouth is a fortified wine that has been aromatised with a range of botanicals. It is also known as red vermouth (vermouth rosso) due to its colour or as Italian vermouth due to its origin. Today, sweet vermouths aren’t just limited to Italy.",
+            "tag1":"",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"sweet_vermouth.jpg"
+        },
+        {
+            "name":"Benedictine",
+            "inst":"Benedictine is a herbal liqueur produced in France. It was developed by wine merchant Alexandre Le Grand in the 19th century, and is reputedly flavored with twenty-seven flowers, berries, herbs, roots, and spices.",
+            "tag1":"Herbal liqueur",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"benedictine.jpg"
+        },
+        {
+            "name":"Dry Gin",
+            "inst":"London dry gin is defined as a gin that is infused with botanical flavor through re-distillation.",
+            "tag1":"Gin",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"drygin.jpg"
+        },
+        {
+            "name":"Red Sweet Vermouth",
+            "inst":"",
+            "tag1":"Sweet Vermouth",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":""
+        },
+        {
+            "name":"Orange",
+            "inst":"An orange is a fruit of various citrus species in the family Rutaceae (see list of plants known as orange); it primarily refers to Citrus × sinensis, which is also called sweet orange, to distinguish it from the related Citrus × aurantium, referred to as bitter orange. The sweet orange reproduces asexually (apomixis through nucellar embryony); varieties of sweet orange arise through mutations.",
+            "tag1":"",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"orange.jpg"
+        },
+        {
+            "name":"Lillet Blanc",
+            "inst":"A sweeter variant of the white-wine-based version with reduced quinine flavoring. It replaced Kina Lillet.",
+            "tag1":"Lillet",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"lillet_blanc.png"
+        },
+        {
+            "name":"Orange Liqueur",
+            "inst":"",
+            "tag1":"Triple Sec",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"triple_sec.jpg"
+        },
+        {
+            "name":"Absinthe",
+            "inst":"Absinthe is an anise-flavoured spirit derived from several plants, including the flowers and leaves of Artemisia absinthium ("grand wormwood"), together with green anise, sweet fennel, and other medicinal and culinary herbs.",
+            "tag1":"",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"absinthe.jpg"
+        },
+        {
+            "name":"Gin",
+            "inst":"Gin is a distilled alcoholic drink that derives its predominant flavour from juniper berries (Juniperus communis).",
+            "tag1":"",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"gin.jpg"
+        },
+        {
+            "name":"Blue Curaçao",
+            "inst":"Curaçao is a liqueur flavored with the dried peel of the bitter orange laraha, a citrus fruit grown on the Dutch island of Curaçao.",
+            "tag1":"Curaçao",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"blue_curacao.jpg"
+        },
+        {
+            "name":"Rum",
+            "inst":"Rum is a liquor made by fermenting and then distilling sugarcane molasses or sugarcane juice. The distillate, a clear liquid, is usually aged in oak barrels. Rum is produced in nearly every sugar-producing region of the world, such as the Philippines, where Tanduay is the largest producer of rum globally.",
+            "tag1":"",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"rum.jpg"
+        },
+        {
+            "name":"Tequila",
+            "inst":"Tequila is a distilled beverage made from the blue agave plant, primarily in the area surrounding the city of Tequila 65 km (40 mi) northwest of Guadalajara, and in the Jaliscan Highlands (Los Altos de Jalisco) of the central western Mexican state of Jalisco.",
+            "tag1":"",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"tequila.jpg"
+        },
+        {
+            "name":"Lemon Lime Soda",
+            "inst":"Lemon-lime soft drinks are typically colorless, however cloudy varieties such as Limca are also available. Similar in appearance and flavor to the clear variety of lemonade found in the UK and Australia, lemon-lime soft drinks are often packaged in green bottles to better distinguish them from soda water.",
+            "tag1":"",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"lemon_lime_soda.jpg"
+        },
+        {
+            "name":"Maraschino Cherry",
+            "inst":"A maraschino cherry is a preserved, sweetened cherry, typically made from light-colored sweet cherries such as the Royal Ann, Rainier, or Gold varieties. In their modern form, the cherries are first preserved in a brine solution usually containing sulfur dioxide and calcium chloride to bleach the fruit, then soaked in a suspension of food coloring (common red food dye is FD&C Red 40), sugar syrup, and other components.",
+            "tag1":"",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"maraschino_cherry.jpg"
+        },
+        {
+            "name":"Crown Royal",
+            "inst":"Crown Royal, also known as Seagram's Crown Royal, is a blended Canadian whisky brand created by Seagram and owned by Diageo since 2000. Production of Crown Royal is done at Gimli, Manitoba, while the blending and bottling of the whisky is done in a facility in Amherstburg, Ontario.",
+            "tag1":"Canadian Whiskey",
+            "tag2":"Whiskey",
+            "tag3":"",
+            "imgPath":"crown_royal.jpg"
+        },
+        {
+            "name":"Peach Schnapps",
+            "inst":"It can be enjoyed in many ways, most prefer it on the rocks or mixed with other drinks to form a variety of cocktails. It is made by adding peach flavouring to a neutral grain spirit. It is typically clear and has a strong sweet taste.",
+            "tag1":"",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"peach_schnapps.png"
+        },
+        {
+            "name":"Sweet and Sour Mix",
+            "inst":"Sour mix (also known as sweet and sour mix) is a mixer that is yellow-green in color and is used in many cocktails. It is made from approximately equal parts lemon and/or lime juice and simple syrup and shaken vigorously with ice. This produces a pearly-white liquid with a pronounced flavor.",
+            "tag1":"Sour mix",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"sour_mix.jpg"
+        },
+        {
+            "name":"Triple Sec",
+            "inst":"Triple sec is an orange-flavoured liqueur that originated in France. It usually contains 20–40% alcohol by volume. Triple sec is rarely consumed neat, but is used in preparing many mixed drinks such as margaritas, cosmopolitans, sidecars, Long Island iced teas, and mai tais.",
+            "tag1":"Orange liqueur",
+            "tag2":"Cointreau",
+            "tag3":"",
+            "imgPath":"triple_sec.jpg"
+        },
+        {
+            "name":"Guinness Stout",
+            "inst":"Guinness is an Irish dry stout that originated in the brewery of Arthur Guinness at St. James's Gate, Dublin, Ireland, in 1759. It is one of the most successful alcohol brands worldwide, brewed in almost 50 countries, and available in over 120.",
+            "tag1":"",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"guinness.jpg"
+        },
+        {
+            "name":"Bailey's Irish Cream",
+            "inst":"Baileys Irish Cream is an Irish cream liqueur, an alcoholic drink flavoured with cream, cocoa and Irish whiskey. It is made by Diageo at Nangor Road, in Dublin, Ireland and in Mallusk, Northern Ireland. Owned by Gilbeys of Ireland, the trademark is currently owned by Diageo. It has a declared alcohol content of 17% by volume.",
+            "tag1":"",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"baileys.jpg"
+        },
+        {
+            "name":"Jameson Irish Whiskey",
+            "inst":"Jameson is a blended Irish whiskey produced by the Irish Distillers subsidiary of Pernod Ricard. Originally one of the six main Dublin Whiskeys at the Jameson Distillery Bow St., Jameson is now distilled at the New Midleton Distillery in County Cork.",
+            "tag1":"Whiskey",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"jameson.jpg"
+        },
+        {
+            "name":"Cognac",
+            "inst":"Cognac is a variety of brandy named after the commune of Cognac, France. It is produced in the surrounding wine-growing region in the departments of Charente and Charente-Maritime.",
+            "tag1":"Brandy",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"cognac.jpg"
+        },
+        {
+            "name":"Cointreau",
+            "inst":"Cointreau is an orange-flavoured triple sec liqueur produced in Saint-Barthélemy-d'Anjou, France. It is consumed as an apéritif and digestif, and is a component of several well-known cocktails. It was originally called Curaçao Blanco Triple Sec. Despite the orange bottle, Cointreau is colourless.",
+            "tag1":"Orange liqueur",
+            "tag2":"Triple Sec",
+            "tag3":"",
+            "imgPath":"cointreau.jpg"
+        },
+        {
+            "name":"Sugar",
+            "inst":"",
+            "tag1":"",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"sugar.jpg"
+        },
+        {
+            "name":"Crème de Menthe",
+            "inst":"Crème de menthe is a sweet, mint-flavored alcoholic beverage. It is available commercially in a colorless version (called "white") and a green version (colored by the mint leaves or by added coloring if made from extract instead of leaves).",
+            "tag1":"",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"creme_de_menthe.jpg"
+        },
+        {
+            "name":"Crème de Cacao",
+            "inst":"Crème de cacao may be either clear or a dark caramel color, which is often labeled dark crème de cacao. The French word crème identifies it as a crème liqueur, a liqueur with a high sugar content as stipulated by various regulations (for example, European law requires a sugar content of 250 g/l). There is no dairy cream in it.",
+            "tag1":"Chocolate liqueur",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"creme_de_cacao.jpg"
+        },
+        {
+            "name":"Southern Comfort Whiskey",
+            "inst":"Southern Comfort (often abbreviated SoCo) is an American, naturally fruit-flavored, whiskey liqueur with fruit and spice accents. The brand was originally created by bartender Martin Wilkes Heron in New Orleans in 1874, and originally used whiskey as the base spirit. Since March 1, 2016, the brand has been owned by the Sazerac Company, which purchased it from Brown–Forman and reintroduced whiskey as its base spirit.",
+            "tag1":"Whiskey",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"southern_comfort.jpg"
+        },
+        {
+            "name":"Chambord",
+            "inst":"Chambord is a 16.5% abv raspberry liqueur modelled after a liqueur produced in the Loire Valley of France during the late 17th century. The Chambord product brand has been owned and produced by the Brown-Forman Corporation since 2006.",
+            "tag1":"Raspberry liqueur",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"chambord.jpg"
+        },
+        {
+            "name":"Sour Mix",
+            "inst":"Sour mix (also known as sweet and sour mix) is a mixer that is yellow-green in color and is used in many cocktails. It is made from approximately equal parts lemon and/or lime juice and simple syrup and shaken vigorously with ice. This produces a pearly-white liquid with a pronounced flavor.",
+            "tag1":"Sweet and Sour Mix",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"sour_mix.jpg"
+        },
+        {
+            "name":"White Rum",
+            "inst":"Light rums, also referred to as "silver" or "white" rums, in general, have very little flavor aside from a general sweetness. Light rums are sometimes filtered after aging to remove any colour. The majority of light rums come from Puerto Rico. Their milder flavors make them popular for use in mixed drinks, as opposed to drinking them straight. Light rums are included in some of the most popular cocktails including the Mojito and the Daiquiri.",
+            "tag1":"Rum",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"white_rum.jpg"
+        },
+        {
+            "name":"Simple Syrup",
+            "inst":"",
+            "tag1":"Sugar",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"simplesyrup.jpg"
+        },
+        {
+            "name":"Club Soda",
+            "inst":"Club soda is a manufactured form of carbonated water, commonly used as a drink mixer. Sodium bicarbonate, potassium sulfate, potassium bicarbonate, potassium citrate, or sodium citrate is artificially added to replicate constituents commonly found in natural mineral waters and offset the acidity of introducing carbon dioxide gas (which creates low 3-4 ph carbonic acid when dissolved in water).",
+            "tag1":"",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"club_soda.jpg"
+        },
+        {
+            "name":"Mint Leaves",
+            "inst":"Mentha (also known as mint, from Greek μίνθα míntha, Linear B mi-ta) is a genus of plants in the family Lamiaceae (mint family). The exact distinction between species is unclear; it is estimated that 13 to 24 species exist.",
+            "tag1":"",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"mint.jpg"
+        },
+        {
+            "name":"Champagne",
+            "inst":"Champagne is a sparkling wine originated and produced in the Champagne wine region of France under the rules of the appellation, that demand specific vineyard practices, sourcing of grapes exclusively from designated places within it, specific grape-pressing methods and secondary fermentation of the wine in the bottle to cause carbonation.",
+            "tag1":"",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"champagne.jpg"
+        },
+        {
+            "name":"Green Apple Schnapps",
+            "inst":"",
+            "tag1":"",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"greenappleschnapps.jpeg"
+        },
+        {
+            "name":"Green Apple",
+            "inst":"",
+            "tag1":"",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"green_apple.jpeg"
+        },
+        {
+            "name":"Canadian Whiskey",
+            "inst":"Canadian whisky is a type of whisky produced in Canada. Most Canadian whiskies are blended multi-grain liquors containing a large percentage of corn spirits, and are typically lighter and smoother than other whisky styles.",
+            "tag1":"Whiskey",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"canadianWhisky.jpg"
+        },
+        {
+            "name":"Sour Apple Schnapps",
+            "inst":"",
+            "tag1":"",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"greenappleschnapps.jpeg"
+        },
+        {
+            "name":"Cranberry Juice",
+            "inst":"Cranberry juice is the liquid juice of the cranberry, typically manufactured to contain sugar, water, and other fruit juices.",
+            "tag1":"Cranberry",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"cranberry_juice.jpg"
+        },
+        {
+            "name":"Whiskey",
+            "inst":"Whisky or whiskey is a type of distilled alcoholic beverage made from fermented grain mash. Various grains (which may be malted) are used for different varieties, including barley, corn, rye, and wheat. Whisky is typically aged in wooden casks, which are often old sherry casks or may also be made of charred white oak.",
+            "tag1":"",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"whiskey.jpg"
+        },
+        {
+            "name":"Pineapple",
+            "inst":"",
+            "tag1":"",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"pineapple.jpg"
+        },
+        {
+            "name":"Brandy",
+            "inst":"Brandy is a liquor produced by distilling wine. Brandy generally contains 35–60% alcohol by volume (70–120 US proof) and is typically consumed as an after-dinner digestif. Some brandies are aged in wooden casks.",
+            "tag1":"",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"brandy.jpg"
+        },
+        {
+            "name":"Lillet",
+            "inst":"Lillet, classed as an aromatised wine within EU law, is a French wine-based aperitif from Podensac. It is a blend of 85% Bordeaux region wines (Semillon for the Blanc and for the Rosé, Merlot for the Rouge) and 15% macerated liqueurs, mostly citrus liqueurs (peels of sweet oranges from Spain and Morocco and peels of bitter green oranges from Haiti).",
+            "tag1":"",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"lillet.jpg"
+        },
+        {
+            "name":"Chocolate liqueur",
+            "inst":"Chocolate liqueur is a chocolate flavored liqueur made from a base liquor of whisky or vodka. Unlike chocolate liquor, chocolate liqueur does contain alcohol and is often used as a sweetening ingredient in mixology, baking, and cooking.",
+            "tag1":"",
+            "tag2":"",
+            "tag3":"",
+            "imgPath":"creme_de_cacao.jpg"
+        }
+    ]
+}
